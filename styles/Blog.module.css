@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem;
+    min-height: 100vh;
+    font-size: 1.5rem;
+  }
+  .blogitems {
+    /* margin: 15px 0px; */
+    margin-bottom: 10px;
+  }
+  .blogitemsh2{
+    margin: 20px 0px;
+    cursor: pointer;
+  }
+  .blogitemsp{
+max-width: 45vw;
+  }
+  .btn{
+    color: white;
+    background-color: black;
+    padding: 7px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 7px;
+    margin-top: 15px;
+  }

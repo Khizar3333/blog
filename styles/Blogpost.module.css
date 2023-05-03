@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem;
+    min-height:40vh;
+    font-size: 1.2rem;
+  }
+  .para{
+    margin-bottom: 480px;
+    /* padding: 0px 70px; */
+  }
+  .container{
+    padding: 0 12rem;
+  }
+  .h1{
+    margin-bottom: 20px;
+  }
+  @media screen and (max-width: 730px) {
+    .container{
+      padding: 0 3rem;
+    } 
+    }
